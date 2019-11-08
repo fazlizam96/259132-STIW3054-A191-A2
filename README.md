@@ -1,4 +1,4 @@
-## 1. 259132 Mohd Fazlizam Bin Ahamd Puad -STIW3054-A182-A2
+## 1. 259132 Mohd Fazlizam Bin Ahamd Puad -STIW3054-A191-A2
 ## 2. Introduction
    You are required to develop a small system using MAVEN and Java programming language. The system should be able to:
 
@@ -21,11 +21,11 @@
 
 5. Reporting file: All the results must be displayed in MS Excel file.    
 ## 3. output
-![1](https://user-images.githubusercontent.com/39902528/55492281-91d94180-5669-11e9-9ef9-5b6966141948.png)
-![21](https://user-images.githubusercontent.com/39902528/55492283-930a6e80-5669-11e9-9952-7b461a4b8057.png)
+![](https://github.com/fazlizam96/259132-STIW3054-A191-A2/blob/master/Output.png)
+
 
 ## 4. UML
-![3](https://user-images.githubusercontent.com/39902528/55492643-217ef000-566a-11e9-93d3-0d010f77dc00.png)
+![](https://github.com/fazlizam96/259132-STIW3054-A191-A2/blob/master/UML%20Diagram.png)
 
 
 ## 5. Youtube
