@@ -1,6 +1,25 @@
-## 1. 235141 Huang Hai Ling -STIW3054-A182-A2
+## 1. 259132 Mohd Fazlizam Bin Ahamd Puad -STIW3054-A182-A2
 ## 2. Introduction
-   required to develop a small system using MAVEN and Java programming language.    
+   You are required to develop a small system using MAVEN and Java programming language. The system should be able to:
+
+1. Identify zhamri's GitHub followers.
+
+2. Analyze each of the followers using thread with the following statistics:
+      The number of repositories
+      The number of followers
+      (add your statistics 1)
+      (add your statistics 2)
+      
+3. The number of threads is based on the number of zhamri's Github followers
+
+4. Reporting format:
+
+| No. | login id | Number of repositories | Number of followers | xxxxxxxxx | xxxxxxxxxx |
+|-----|----------|------------------------|---------------------|-----------|------------|
+| 1   | wzul     | 29                     | 31                  |    xx     |     xx     |
+| 2   | Aman748  | 17                     | 14                  |    xx     |     xx     |
+
+5. Reporting file: All the results must be displayed in MS Excel file.    
 ## 3. output
 ![1](https://user-images.githubusercontent.com/39902528/55492281-91d94180-5669-11e9-9ef9-5b6966141948.png)
 ![21](https://user-images.githubusercontent.com/39902528/55492283-930a6e80-5669-11e9-9952-7b461a4b8057.png)
