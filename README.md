@@ -29,7 +29,7 @@
 
 
 ## 5. Youtube
-[https://youtu.be/9Gcf1p9Hcng](https://youtu.be/9Gcf1p9Hcng)
+[)
 
 ## 6. references
 [https://www.geeksforgeeks.org/arrays-stream-method-in-java/)
