@@ -32,5 +32,5 @@
 [https://youtu.be/9Gcf1p9Hcng](https://youtu.be/9Gcf1p9Hcng)
 
 ## 6. references
-[https://blog.csdn.net/gisboygogogo/article/details/78168976](https://blog.csdn.net/gisboygogogo/article/details/78168976)
-[http://www.runoob.com/java/java-regular-expressions.html](http://www.runoob.com/java/java-regular-expressions.html)
+[https://www.geeksforgeeks.org/arrays-stream-method-in-java/)
+[https://www.geeksforgeeks.org/streams-arrays-java-8/)
